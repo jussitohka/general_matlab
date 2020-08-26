@@ -5,7 +5,7 @@
 % Tampere University of Technology, Finland
 % The method is described in 
 % J. Tohka. Volume of interest (VOI) limited linear filtering. 
-% http://www.cs.tut.fi/~jupeto/roi_limited_filtering.pdf
+% https://github.com/jussitohka/general_matlab/blob/master/roi_limited_filtering.pdf
 % --------------------------------------------------------------
 % Permission to use, copy, modify, and distribute this software 
 % for any purpose and without fee is hereby
